@@ -1,1 +1,8 @@
-Added text content
+How is the web different than the internet?<br>
+  The internet is the connection between networks globally whereas the web is a collection on information accessed by using the internet.
+Briefly describe how the internet works<br>
+  The internet works by using an interconnect system of computers and web servers to communicate and send information to one another<br>
+What is a directory and what is its relationship to files?<br>
+  A directory is where your files are stored on your computer<br>
+Why is using a VCS beneficial?<br>
+  Github is a version control system which is helpful because it allows you to go back and look at previous versions of your code and if you made a mistake you can just go back and look at your previous versions until you figure out where you went wrong so it is a very non destructive way to code.<br>
