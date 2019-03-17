@@ -1,10 +1,9 @@
 <h1>Questions</h1>
 <br>
-Divs "divide" your work into its various sections, Ids "identify" your elements, Classes also identify your elements but in groups instead of singularly, Spans help give more needed styling information to text and such.
+I thought it was interesting learning about how to add pages and color and align our text.
 </br>
 <br>
-Alt text provides error information to the users who dont have access to the code
+I'm anxious to learn more about styling and play with aesthetics.
 </br>
-<br>
-I read through the material, found all my source material and downloads, and then I started coding. I ran into problems mostly with getting the right url adresses for the video and audio
+I find working with the divs confusing and I think I'm using them right but I'm not really sure.
 </br>
