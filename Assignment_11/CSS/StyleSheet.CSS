@@ -1,0 +1,62 @@
+body {background-color: pink}
+h1 {font-family: 'Oswald', sans-serif; color: white; text-align: center; font-size: 25pt}
+h3 {color: white; text-align: left}
+p {color: maroon; text-align: left}
+.Square1 {
+width: 500px;
+height: 500px;
+border: 50px solid green;
+padding: ;
+margin: ;
+}
+.Square2 {
+width: 420px;
+height: 400px;
+border: 50px solid teal;
+padding: ;
+margin: ;
+}
+.Square3 {
+width: 340px;
+height: 300px;
+border: 50px solid grey;
+padding: ;
+margin: ;
+}
+.Square4 {
+width: 260px;
+height: 200px;
+border: 50px solid orange;
+padding: ;
+margin: ;
+}
+.Square5 {
+width: 160px;
+height: 100px;
+border: 10px solid green;
+padding: 30px;
+margin: 10px;
+}
+
+.Square6 {
+z-index: 6
+display: inline;
+position: fixed;
+width: 100px;
+height: 60px;
+border: 5px solid teal;
+padding: 15px;
+margin: 9px;
+}
+.Image {
+position:fixed;
+top:100px;
+right:100px;
+}
+ {font-family: 'Permanent Marker', cursive;}
+
+span{color: teal}
+span:first-of-type{font-size: 15pt}
+
+a{color:teal}
+a:hover{font-size: 25pt}
