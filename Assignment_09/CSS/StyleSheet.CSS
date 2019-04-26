@@ -1,0 +1,25 @@
+body {background-color: pink}
+h1 {font-family: 'Oswald', sans-serif; color: white; text-align: center; font-size: 25pt}
+h3 {color: white; text-align: left}
+p {color: maroon; text-align: left}
+
+
+.ImageNick img {
+position: absolute;
+height: 700px;
+top:200px;
+right:800px;
+opacity: .55;
+}
+
+.ImageMTV {
+position:fixed;
+top:200px;
+right:100px
+}
+
+span{color: teal}
+span:first-of-type{font-size: 15pt}
+
+a{color:teal}
+a:hover{font-size: 25pt}

@@ -2,13 +2,16 @@ body {background-color: pink}
 h1 {font-family: 'Oswald', sans-serif; color: white; text-align: center; font-size: 25pt}
 h3 {color: white; text-align: left}
 p {color: maroon; text-align: left}
+
 .Square1 {
+  z-index: 6
 width: 500px;
 height: 500px;
 border: 50px solid green;
 padding: ;
 margin: ;
 }
+
 .Square2 {
 width: 420px;
 height: 400px;

@@ -1,11 +1,9 @@
-<h1>Typography</h1>
-  <p>Briefly share your design process for this assignment.
-  What fonts did you choose, and why?
-  I chose Oswlard because I like the clean, modern look paired with the handwritten look of the Permanent Marker font.
-  What is the difference between a system font, web font, and web-safe font? What is the importance of having fallback fonts or a font stack?
-  System Font=font within operating System
-  Web Font=font located on the web that you host by embedding into your code
-  Web-Safe Font=font that is supported by most web browsers making it much safer to use and less likely to need a backup font
-  Free Response: Summarize your work cycle for this assignment.
-  I picked out my quote/writing first and then found fonts to pair with it. I also ended up going into office hours to get help because I couldn't figure out how to reference the sections I wanted in order to apply the seperate fonts.
-  </p>
+<h1>Client Site</h1>
+Who was your imaginary client? "My company's name is Nurse Nanny and we offer nannies who are certified nurses. Our brand colors are pastel yellow and blue and two words to describe the theme of the website are soft and clean." Decide on the color, fonts, and layout of this site based off these needs.
+How did they describe their site needs?
+Functional, clean, soft, and inviting.
+What is the difference between display: block, display: inline, and display: inline-block?
+
+Free Response: Summarize your work cycle for this assignment.
+
+I read through the material and requirements for the project and then choose the imaginary business and the aesthetics that would comply with the business. I also went in to office hours because I had problems getting the dropdown menu to show up the way I wanted to. After that, I added in the website links and refined my website.
