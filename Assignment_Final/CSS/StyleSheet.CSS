@@ -1,0 +1,101 @@
+body {background-color: white;}
+h1 {font-family: 'Oswald', sans-serif; color: rgb(141, 81, 182); text-align: center; font-size: 25pt}
+h3 {font-family: 'Fira Sans'; color: rgb(141, 81, 182); text-align: center;}
+p {color: rgb(83, 192, 221); text-align: center;}
+.h1 {font-family: 'Fira Sans', cursive;}
+.comments {
+  text-align: center;
+  font-size: 30pt;
+  font-family: 'Fira Sans';
+  position: absolute
+  color: rgb(83, 192, 221)}
+
+.classOptions {
+  font-size: 15pt;
+  color: rgb(141, 81, 182);
+  font-family: 'Fira Sans';
+}
+
+.imagemid img {
+  position: absolute;
+  top: 300px;
+  left: 380px;
+  height: 600px;
+  width: 800px;
+}
+.imageleft img{
+  position:absolute;
+  top: 200px;
+  left: 120px;
+  height: 600px;
+  width: 600px;
+}
+.imageright img{
+  position:absolute;
+  top: 200px;
+  left: 800px;
+  height: 600px;
+  width: 600px;
+}
+.imagebottom img{
+  position:absolute;
+  top: 900px;
+  left: 450px;
+  height: 600px;
+  width: 600px;
+}
+.display-inline-block {
+    display: inline-block;
+}
+.dropdown-item {
+  width: auto;
+  padding: 10px;
+  display: block;
+  font-family: 'Oswald', sans-serif;
+  text-align: left;
+}
+.dropdown {
+  display: inline-block;
+}
+.dropdown-content {
+    display: none;
+    position: absolute;
+    border: 1px solid #000;
+    margin: 0;
+    margin-top: 0;
+    color: #000;
+    background-color: rgb(83, 192, 221);
+    z-index: 1;
+}
+.dropdown-content a {
+    color: #000;
+}
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+.menu-item {
+  width: 150px;
+  padding: 10px;
+  display: inline-block;
+  font-family: 'Oswald', sans-serif;
+  background-color: rgb(196, 254, 255);
+  text-align: center;
+  color: rgb(141, 81, 182) ;
+  font-size: 15pt;
+}
+.Square6 {
+display: inline;
+position: fixed;
+width: 300px;
+height: 60px;
+border: 5px rgb(228, 236, 142);
+padding: 15px;
+margin: 9px;
+}
+span{color: teal}
+span:first-of-type{font-size: 15pt}
+
+
+
+a{color:rgb(83, 192, 221)}
+a:hover{font-size: 20pt}

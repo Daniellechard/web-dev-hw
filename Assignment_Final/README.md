@@ -1,0 +1,1 @@
+Consider a subject that you can provide content for in index, contact, about, and collections/services/gallery/offerings pages. This is a great opportunity to showcase yourself as an artisan, journalist, writer, filmmaker, etc!
